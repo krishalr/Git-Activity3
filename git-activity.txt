@@ -1,2 +1,3 @@
 This is my first Git activity.
 I added new content in the feature branch.
+My name is Krizzia Lea M. Repane
