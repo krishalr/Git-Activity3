@@ -1,1 +1,2 @@
 This is my first Git activity.
+I added new content in the feature branch.
